@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello, World! 👋
 
+Sobre mim:
+
+- 🎓 Formação: Cursando Análise e Desenvolvimento de Sistemas
+- 📫 Rede Social: https://www.linkedin.com/in/livia-moraes-de-almeida/
+- ⚡ Hobbies: Desenho, Leitura, Animes e Video Games
 <!--
 **MoraesLivia/MoraesLivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
