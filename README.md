@@ -2,7 +2,7 @@
 
 Sobre mim:
 
-- 🎓 Formação: Cursando Análise e Desenvolvimento de Sistemas
+- 🎓 Formação: Analista e Desenvolvedora de Sistemas
 - 📫 Rede Social: https://www.linkedin.com/in/livia-moraes-de-almeida/
 - ⚡ Hobbies: Desenho, Leitura, Animes e Video Games
 <!--
